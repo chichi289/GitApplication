@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         // Comment 3
         // Comment 4 from github
         // Comment 5
+        // wrong commit 6
     }
 }
